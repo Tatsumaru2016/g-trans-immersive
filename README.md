@@ -4,11 +4,11 @@
 
 ## 公開 URL
 
-https://tatsumaru2016.github.io/g-trans-immersive/
+https://g-trans.github.io/g-trans-immersive/
 
 ## 姉妹サイト（3D Showcase）
 
-https://tatsumaru2016.github.io/g-trans-website/
+https://g-trans.github.io/g-trans-website/
 
 ## ローカル
 
