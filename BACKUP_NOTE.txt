@@ -1,0 +1,4 @@
+G.trans ZIP 適用版（7シーン + Express/Gemini + Three.js）
+作成: 2026-06-05 02:31
+
+次の版 (3d-showcase) 適用前のスナップショット。

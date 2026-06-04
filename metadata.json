@@ -1,0 +1,6 @@
+{
+  "name": "G.trans",
+  "description": "A premium next-generation 3D interactive showcase for G.trans, an AI-powered real-time screen translation tool for eliminating global language barriers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
